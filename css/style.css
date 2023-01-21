@@ -1,0 +1,121 @@
+/*Author:Anuja date:11jan 2023 2:32pm*/
+.container {
+    display: flex;
+    gap: 10px;
+    /*font-size: medium; */
+}
+.imgwiki {
+    width: 120px;
+    padding: 10px;
+}
+.inav {
+    border-right: 1px solid skyblue;
+    color: #0000ff;
+    width: 150px;
+    padding: 10px;
+}
+.log1 {
+    display: flex;
+    gap: 10px;
+}
+.log {
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: flex-end;
+    width: 1150px;
+}
+
+.log1 a {
+    text-decoration: none;
+}
+.menu {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid skyblue;
+    padding: 2px;
+}
+.first {
+    display: flex;
+    justify-content: start;
+    gap: 8px;
+}
+.second {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+}
+div a {
+    color: rgb(3, 3, 185);
+}
+.welcome {
+    border: 1px solid rgb(28, 158, 210);
+    text-align: center;
+    /* padding: 3px; */
+    background-color: rgb(251, 255, 255);
+    margin-top: 20px;
+}
+.welcome h3 {
+    font-size: x-large;
+    font-weight: lighter;
+}
+.fpara {
+    border: 1px groove skyblue;
+    margin-top: 5px;
+    width: 570px;
+    padding: 10px;
+    background-color: rgb(233, 255, 250);
+}
+h2 {
+    font-size: larger;
+    border: 1px groove;
+    background-color: rgb(206, 254, 214);
+    text-align: center;
+    /* width: 500px; */
+}
+/* .fpara2 {
+    border: 1px groove skyblue;
+    margin-top: 5px;
+    width: 520px;
+    background-color: rgb(206, 254, 254);
+} */
+.fpara3 {
+    border: 1px groove rgb(202, 233, 245);
+    margin-top: 5px;
+    width: 540px;
+    padding: 10px;
+    background-color: rgb(231, 245, 251);
+}
+.fpara3 h2 {
+    background-color: rgb(195, 229, 249);
+}
+/* .fpara4 {
+    border: 1px groove rgb(33, 155, 199);
+    margin-top: 5px;
+    width: 520px;
+    background-color: rgb(216, 243, 253);
+} */
+.paragraph {
+    display: flex;
+    /* flex-wrap: wrap; */
+    gap: 10px;
+}
+.img1 {
+    float: left;
+}
+.img2 {
+    float: left;
+}
+.img3 {
+    float: right;
+}
+.img4 {
+    float: right;
+}
+h3 a {
+    text-decoration: none;
+    font-weight: lighter;
+}
+.paragraph h2 {
+    text-align: left;
+}
